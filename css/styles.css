@@ -664,7 +664,7 @@ button {
 .modal-form {}
 
 .modal-field {
-  margin-bottom: 24px
+  margin-bottom: 8px;
 }
 
 .modal-input {
@@ -730,7 +730,6 @@ button {
   letter-spacing: 0.04em;
   color: #8e8f99;
   font-size: 12px;
-  display: inline-block;
   margin-bottom: 4px;
   fill: #ffffff
 }
