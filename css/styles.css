@@ -664,7 +664,11 @@ button {
 .modal-form {}
 
 .modal-field {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
+}
+
+.modal-field-2 {
+  margin-bottom: 24px;
 }
 
 .modal-input {
