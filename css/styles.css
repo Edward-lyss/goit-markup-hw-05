@@ -667,6 +667,10 @@ button {
   margin-bottom: 8px;
 }
 
+.modal-field:last-child {
+  margin-bottom: 16px;
+}
+
 .modal-field-check {
   margin-bottom: 24px;
 }
